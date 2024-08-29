@@ -1,4 +1,4 @@
-## Hi there 👋
+# Call me Gordy
 
 <!--
 **Gordon-BP/Gordon-BP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently running [Hanakano](https://www.hanakano.com), a conversational AI consulting and professional services firm.
+
+My languages are...
+- 🐍 Python
+- 🤷 Typescript / Javascript
+- 🏃‍♂️ Go
+
+... and I use them to build cool stuff like
+* [A chatbot UI with simultaneous text & audio streaming](https://github.com/Gordon-BP/text-audio-ui-demo)
+* [An AI agent to solve github issues and open pull requests](https://github.com/Gordon-BP/taylor-the-frontend-dev)
+* Automatic testing harnesses for web-based chatbots
+* State machines!!
