@@ -23,6 +23,7 @@ My languages are...
 - 🏃‍♂️ Go
 
 ... and I use them to build cool stuff like
+* [A conversational AI that changes the UI to help you find an apartment](https://re-bot-demo.vercel.app/)
 * [A chatbot UI with simultaneous text & audio streaming](https://github.com/Gordon-BP/text-audio-ui-demo)
 * [An AI agent to solve github issues and open pull requests](https://github.com/Gordon-BP/taylor-the-frontend-dev)
 * Automatic testing harnesses for web-based chatbots
